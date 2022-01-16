@@ -13,7 +13,7 @@ class Calculator{
     
     deletes(){
         this.currentOperand = this.currentOperand.toString().slice(0,  -1)
-    
+    dff
     }
     
     appendNumber(number){
